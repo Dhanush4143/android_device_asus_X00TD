@@ -5,8 +5,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/descendant_X00TD.mk
+    $(LOCAL_DIR)/aosip_X00TD.mk
 
 COMMON_LUNCH_CHOICES := \
-    descendant_X00TD-userdebug
-
+    aosip_X00TD-userdebug
